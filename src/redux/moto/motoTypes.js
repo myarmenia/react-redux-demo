@@ -1,0 +1,1 @@
+export const BUY_MOTO = 'BUY_MOTO'
